@@ -1,5 +1,5 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-DEVOLPED BY : Nara Guna Susmitha
+NAME : Nara Guna Susmitha
 
 REG NO : 212224230176
 ## AIM
